@@ -1,0 +1,8 @@
+/*show docker images
+#docker images
+
+/* build docker image accourding to Dockerfile
+#docker build -t springdockerapi .
+
+/* run this docker image
+#docker run -p 8000:8080 springdockerapi
